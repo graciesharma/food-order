@@ -1,14 +1,10 @@
-/* 
-    Author: Vijay Thapa;
-    Theme: Restaurant Food Order;
-    version: 1.0;
-*/
 
-/* CSS for All */
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 *{
     margin: 0 0;
     padding: 0 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 .container{
     width: 80%;
