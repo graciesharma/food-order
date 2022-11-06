@@ -1,8 +1,9 @@
-/* 
-    Author: Vijay Thapa;
-    Theme: Food Order Website Admin;
-    Version: 1.0;
-*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: 'Raleway', sans-serif;
+}
 
 *{
     margin: 0;
@@ -43,14 +44,14 @@ table tr td{
 }
 
 .btn-primary{
-    background-color: #1e90ff;
+    background-color: #04aa6d;
     padding: 1%;
     color: white;
     text-decoration: none;
     font-weight: bold;
 }
 .btn-primary:hover{
-    background-color: #3742fa;
+    background-color: #4caf50;
 }
 
 .btn-secondary{
@@ -65,14 +66,14 @@ table tr td{
 }
 
 .btn-danger{
-    background-color: #ff6b81;
+    background-color: red;
     padding: 1%;
     color: white;
     text-decoration: none;
     font-weight: bold;
 }
 .btn-danger:hover{
-    background-color: #ff4757;
+    background-color: #2ed573;
 }
 
 .success{
@@ -97,10 +98,10 @@ table tr td{
 .menu ul li a{
     text-decoration: none;
     font-weight: bold;
-    color: #ff6b81;
+    color: #04aa6d;
 }
 .menu ul li a:hover{
-    color: #ff4757;
+    color: #2ed573;
 }
 
 /* CSS for main-content */
@@ -120,7 +121,7 @@ table tr td{
 
 /* CSS for Footer */
 .footer{
-    background-color: #ff4757;
+    background-color: #2ed573;
     color: white;
 }
 
