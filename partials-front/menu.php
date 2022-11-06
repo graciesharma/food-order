@@ -18,7 +18,7 @@
         <div class="container">
             <div class="logo">
                 <a href="#" title="Logo">
-                    <img src="images/logo.jpg" alt="Restaurant Logo" class="img-responsive">
+                    <img src="images/logo.png" alt="Restaurant Logo" class="img-responsive">
                 </a>
             </div>
 
