@@ -220,12 +220,14 @@ fieldset{
 .order{
     width: 50%;
     margin: 0 auto;
+    background-color: white;
+    padding: 1.2rem;
+    z-index: 99;
 }
 .input-responsive{
     width: 96%;
     padding: 1%;
     margin-bottom: 3%;
-    border: none;
     border-radius: 5px;
     font-size: 1rem;
 }
